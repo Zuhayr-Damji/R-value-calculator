@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "lib": ["DOM","ES2023"],
+        "outDir": "./js"
+    },
+    "files": [
+        "./ts/math.ts"
+    ]
+}
